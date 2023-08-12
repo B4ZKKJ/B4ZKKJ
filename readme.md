@@ -1,29 +1,32 @@
-# B4ZKKJ - Designer de Sites & Desenvolvedor Full Stack
+#  <h3 align="center">📋 Minhas estatísticas do Github::</h3>
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoEsdras07&theme=gotham&border_radius=4&hide_border=true&mode=weekly"><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoEsdras07&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&border_radius=none&hide_border=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEsdras07&layout=compact&langs_count=7&theme=gotham&border_radius=none&hide_border=true"/>
+</p>
 
-## Bem-vindo ao meu Perfil no GitHub!
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardoEsdras07&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Olá! 👋 Sou o **B4ZKKJ**, um apaixonado *Designer de Sites* e *Desenvolvedor Full Stack*
 
-## Sobre Mim
 
-- 🎨 Entusiasta do *Design*: Acredito no poder da estética e da experiência do usuário para criar websites visualmente atrativos e de fácil uso.
-- 💻 *Desenvolvedor Full Stack*: Habilidoso em criar soluções tanto para a parte *front-end* quanto *back-end* para entregar aplicações web completas.
-- 🚀 *Sempre Aprendendo*: Estou sempre explorando novas *tecnologias* e *melhores práticas* para estar na vanguarda do desenvolvimento web.
 
-## Minhas Habilidades
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EduardoEsdras07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Design**:
-- **Front-end**: HTML, CSS, *JavaScript*
-- **Back-end**: *Django*
-- **Banco de Dados**: Trabalho com bancos de dados *SQL*
+---
+[![](https://visitcount.itsvg.in/api?id=EduardoEsdras07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Meus Projetos
 
-Sinta-se à vontade para explorar alguns dos meus projetos em destaque:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-1. **Nome do Projeto 1**: Uma breve descrição do projeto, tecnologias utilizadas e link para o *repositório*.
-2. **Nome do Projeto 2**: Outro projeto emocionante que gostaria de destacar.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1Fa4&height=120&section=footer"/>
 
-## Vamos Colaborar
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EduardoEsdras07}/count.svg" /></p> 
+<br>
+</div>
 
-Estou sempre aberto a *colaborações* e a *aprender* com outros desenvolvedores. Se você estiver interessado em trabalhar junto em um projeto ou tiver alguma *sugestão*, sinta-se à vontade para entrar em contato comigo. você pode me contatar pelo meu discord -> **b4zkkj**
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EduardoEsdras07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
