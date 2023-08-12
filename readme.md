@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=EduardoEsdras07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EduardoEsdras07&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=B4ZKKJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
