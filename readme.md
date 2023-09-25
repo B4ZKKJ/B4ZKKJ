@@ -1,2 +1,2 @@
 # Hi.
-I am a simple junior programmer
+I am a simple junior programmer 🇧🇷
