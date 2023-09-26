@@ -15,5 +15,5 @@ I am a simple junior programmer 🇧🇷
   <img src="https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Lunacy-161b22?style=for-the-badge&logo=Lunacy&logoColor=189de7">
 </details>
-![My Stats](https://github-readme-stats.vercel.app/api?B4ZKKJ=anuraghazra&show_icons=true&theme=transparent)
+![My Stats](https://github-readme-stats.vercel.app/api?username=B4ZKKJ&show_icons=true&theme=transparent)
 
