@@ -10,4 +10,8 @@ I am a simple junior programmer 🇧🇷
   <summary>Frameworks</summary>
   <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=green" alt="">
 </details>
+<details>
+  <summary>Web Design</summary>
+  <img src="https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=white" alt="" srcset="">
+</details>
 
